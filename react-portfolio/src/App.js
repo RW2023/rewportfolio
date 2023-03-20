@@ -3,7 +3,10 @@ import './App.scss';
 function App() {
   return (
     <div className="App">
-     <h1>My Portfolio</h1>
+      <header className='App-header '>
+        <h1>My Portfolio</h1>
+        </header>
+     
     </div>
   );
 }
