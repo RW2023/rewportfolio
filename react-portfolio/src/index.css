@@ -7,7 +7,6 @@ body {
 }
 
 
-
 body {
   margin: 0;
   font-family: 'Nunito','Segoe UI', 'Roboto', 'Oxygen',
@@ -15,7 +14,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+background-color: black;
+color: whitesmoke;
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
