@@ -17,6 +17,10 @@ $primary-color: #ffd700;
   --color-grey-6: #12181b;
 }
 
+body{
+  background-color: var(--color-primary);
+}
+
 @font-face {
   font-family: 'Helvetica Neue';
   src: url('./assets/fonts/helvetica-neu.ttf') format('ttf');
