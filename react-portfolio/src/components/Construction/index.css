@@ -1,0 +1,23 @@
+/* CSS Reset */
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* End of Reset */
+
+UnderConstruction {
+    margin: 0;
+    font-family: 'Nunito', 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+}
